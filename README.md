@@ -1,2 +1,2 @@
-# Leetcode-problem practice
-Leetcode-problem practice
+# competetive-programing-problem practice
+competetive-programing-problem practice
