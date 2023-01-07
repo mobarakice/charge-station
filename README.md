@@ -1,2 +1,2 @@
-# competetive-programing-problem practice
-competetive-programing-problem practice
+# competetive-programming-problem practice
+competetive-programming-problem practice
